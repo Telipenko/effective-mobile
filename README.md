@@ -11,11 +11,9 @@
 ## Установка
 
 1. Клонируйте репозиторий:
-   ```bash
-   git clone <ваш-репозиторий>
-   cd <ваш-репозиторий>
-Установите зависимости:
+  git clone https://github.com/Telipenko/effective-mobile
 
+Установите зависимости:
 pip install -r requirements.txt
 
 Установите браузеры для Playwright:
