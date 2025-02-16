@@ -10,7 +10,7 @@
 
 ## Установка
 
-1. Клонируйте репозиторий:
+  Клонируйте репозиторий:
   git clone https://github.com/Telipenko/effective-mobile
 
 Установите зависимости:
